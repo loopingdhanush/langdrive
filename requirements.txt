@@ -1,0 +1,12 @@
+streamlit
+
+sqlalchemy
+psycopg[binary]
+pgvector
+python-dotenv
+
+pymupdf
+python-docx
+
+sentence-transformers
+rank-bm25
